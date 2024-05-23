@@ -89,7 +89,7 @@ Infrastructure as Code for deploying scalable applications on AWS using Terrafor
   <a href="mailto:kushaltanwar5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/kushal-singh">
+  <a href="[https://www.linkedin.com/in/kushal-singh](https://www.linkedin.com/in/kushal-singh-4a7485221/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://twitter.com/KushalDevOps">
