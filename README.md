@@ -8,6 +8,11 @@
   <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-ML-F80000?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF9900?style=for-the-badge&logo=language&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-282C34?style=for-the-badge&logo=neural&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -37,11 +42,14 @@ I'm **Kushal Singh**, a passionate DevOps engineer and cloud enthusiast with a k
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-ML-F80000?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-FF9900?style=for-the-badge&logo=language&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neural_Networks-282C34?style=for-the-badge&logo=neural&logoColor=white"/>
 </p>
 
 ---
@@ -51,6 +59,11 @@ I'm **Kushal Singh**, a passionate DevOps engineer and cloud enthusiast with a k
 - **Java Development**: Enhancing backend development skills.
 - **Advanced Kubernetes**: Deep diving into Kubernetes for better orchestration and management.
 - **Financial Trading Algorithms**: Integrating tech with trading to develop automated trading systems.
+- **Artificial Intelligence & Machine Learning**: Exploring the realms of AI, ML, NLP, and Neural Networks.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHGrVGrqgFFknfO/giphy.gif" width="600"/>
+</p>
 
 ---
 
@@ -65,6 +78,12 @@ Automated CI/CD pipeline using Jenkins, Docker, and Kubernetes.
 ### 🌐 [Terraform AWS Infrastructure](https://github.com/yourusername/project3)
 Infrastructure as Code for deploying scalable applications on AWS using Terraform.
 
+### 🤖 [AI-Powered Chatbot](https://github.com/yourusername/project4)
+An intelligent chatbot leveraging NLP and neural networks to provide accurate responses.
+
+### 📈 [Algorithmic Trading Bot](https://github.com/yourusername/project5)
+A sophisticated trading bot using machine learning to predict market movements.
+
 ---
 
 ## 📺 Latest Blog Posts
@@ -72,6 +91,8 @@ Infrastructure as Code for deploying scalable applications on AWS using Terrafor
 - **[Optimizing Kubernetes for Production](https://yourblog.com/kubernetes-production)**
 - **[Terraform Best Practices](https://yourblog.com/terraform-best-practices)**
 - **[Getting Started with Java for DevOps](https://yourblog.com/java-devops)**
+- **[Introduction to AI and ML](https://yourblog.com/ai-ml-introduction)**
+- **[Building a Neural Network from Scratch](https://yourblog.com/building-neural-network)**
 
 ---
 
@@ -80,6 +101,10 @@ Infrastructure as Code for deploying scalable applications on AWS using Terrafor
 - **Problem Solving**: Tackling new challenges and finding optimal solutions.
 - **Trading**: Engaged in financial trading and developing trading strategies.
 - **Web Series**: Enjoying the latest and greatest web series.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5ntdy5Ban1dIY/giphy.gif" width="600"/>
+</p>
 
 ---
 
@@ -94,6 +119,9 @@ Infrastructure as Code for deploying scalable applications on AWS using Terrafor
   </a>
   <a href="https://twitter.com/KushalDevOps">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://yourblog.com">
+    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=blogger&logoColor=white"/>
   </a>
 </p>
 
