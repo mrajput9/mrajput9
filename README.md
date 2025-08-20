@@ -75,7 +75,7 @@ A comprehensive guide and scripts for setting up a Kubernetes cluster from scrat
 ### 🛠️ [CI/CD Pipeline with Jenkins](https://github.com/yourusername/project2)
 Automated CI/CD pipeline using Jenkins, Docker, and Kubernetes.
 
-### 🌐 [Terraform AWS Infrastructure]([https://github.com/yourusername/project3](https://github.com/mrajput9/Infrastructure-as-code))
+### 🌐 [Terraform AWS Infrastructure](https://github.com/yourusername/project3](https://github.com/mrajput9/Infrastructure-as-code)
 Infrastructure as Code for deploying scalable applications on AWS using Terraform.
 
 ### 🤖 [AI-Powered Chatbot](https://github.com/yourusername/project4)
